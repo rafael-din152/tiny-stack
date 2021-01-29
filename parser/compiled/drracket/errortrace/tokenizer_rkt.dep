@@ -1,0 +1,1 @@
+("7.9" racket ("191c6be29bf051af83bf6d23c1a515824ca38bd8" . "c429d346c4d778712fd2bb2a0561466d02450c00") #"C:\\Users\\rdfdi\\Documents\\tiny-stack\\parser\\lexer.rkt" (collects #"br" #"main.rkt") (collects #"brag" #"support.rkt") (collects #"errortrace" #"errortrace-key.rkt") (collects #"racket" #"runtime-config.rkt"))
